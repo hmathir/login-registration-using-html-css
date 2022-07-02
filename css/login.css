@@ -23,7 +23,7 @@ body {
   width: 300px;
   box-sizing: border-box;
   border-radius: 20px;
-  display: b;
+  display: block;
 }
 .btn {
   background-color: black;
