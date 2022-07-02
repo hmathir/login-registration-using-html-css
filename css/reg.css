@@ -95,6 +95,11 @@ form .btn button:hover {
   background: linear-gradient(-135deg, #71b7e6, #9b59b6);
 }
 
+.user-details .hm-back-to-login{
+  text-align: center;
+  width: 100%;
+}
+
 /* form .lbtn {
   height: 45px;
   margin: 45px 0px;
